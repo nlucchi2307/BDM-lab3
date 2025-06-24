@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/BDM3/mlruns/0/92cb07a7db3e4798b7c9a6654e565441/artifacts
+end_time: 1750776672435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92cb07a7db3e4798b7c9a6654e565441
+run_name: Linear Regression
+run_uuid: 92cb07a7db3e4798b7c9a6654e565441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750776632782
+status: 3
+tags: []
+user_id: aleja

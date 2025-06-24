@@ -1,11 +1,11 @@
 artifact_uri: file:///C:/BDM3/mlruns/0/d97b3f2412d94e5192e2d27e79ef3bfe/artifacts
+deleted_time: 1750775894317
 end_time: 1750775571018
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d97b3f2412d94e5192e2d27e79ef3bfe
 run_name: Random Forest
-run_uuid: d97b3f2412d94e5192e2d27e79ef3bfe
 source_name: ''
 source_type: 4
 source_version: ''
