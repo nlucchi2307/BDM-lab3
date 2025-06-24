@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/BDM3/mlruns/0/24573d584457499b8905eb95dccfd871/artifacts
+end_time: 1750775787972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24573d584457499b8905eb95dccfd871
+run_name: best_model_final
+run_uuid: 24573d584457499b8905eb95dccfd871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750775760117
+status: 3
+tags: []
+user_id: aleja

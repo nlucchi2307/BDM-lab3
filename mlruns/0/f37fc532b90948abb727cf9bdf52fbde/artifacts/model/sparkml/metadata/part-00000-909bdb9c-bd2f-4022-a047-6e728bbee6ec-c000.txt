@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.PipelineModel","timestamp":1750774618047,"sparkVersion":"4.0.0","uid":"PipelineModel_18aaba4cac2c","paramMap":{"stageUids":["LinearRegression_59748d3824b3"]},"defaultParamMap":{}}

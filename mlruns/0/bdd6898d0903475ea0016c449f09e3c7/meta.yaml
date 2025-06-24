@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/BDM3/mlruns/0/bdd6898d0903475ea0016c449f09e3c7/artifacts
+deleted_time: 1750775508022
+end_time: 1750775385491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bdd6898d0903475ea0016c449f09e3c7
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750775351725
+status: 3
+tags: []
+user_id: aleja

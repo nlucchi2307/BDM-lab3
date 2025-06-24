@@ -1,11 +1,11 @@
 artifact_uri: file:///C:/BDM3/mlruns/0/3d1b290b25c446c7ad30ba6fa72a1a07/artifacts
+deleted_time: 1750774547872
 end_time: 1750774330982
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3d1b290b25c446c7ad30ba6fa72a1a07
 run_name: best_model_final
-run_uuid: 3d1b290b25c446c7ad30ba6fa72a1a07
 source_name: ''
 source_type: 4
 source_version: ''

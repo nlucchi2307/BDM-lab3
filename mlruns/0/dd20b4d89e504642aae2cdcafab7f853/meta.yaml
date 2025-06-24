@@ -1,11 +1,11 @@
 artifact_uri: file:///C:/BDM3/mlruns/0/dd20b4d89e504642aae2cdcafab7f853/artifacts
+deleted_time: 1750774547855
 end_time: 1750772288540
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: dd20b4d89e504642aae2cdcafab7f853
 run_name: Linear Regression
-run_uuid: dd20b4d89e504642aae2cdcafab7f853
 source_name: ''
 source_type: 4
 source_version: ''
