@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/BDM3/mlruns/0/999bf510b19341d39e8966716b2e7af3/artifacts
+deleted_time: 1750771647612
+end_time: 1750770603623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 999bf510b19341d39e8966716b2e7af3
+run_name: Gradient Boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750769032712
+status: 3
+tags: []
+user_id: aleja
